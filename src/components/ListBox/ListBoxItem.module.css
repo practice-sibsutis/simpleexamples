@@ -1,0 +1,17 @@
+.listBoxItem {
+    background-color: transparent;
+    border: 1px solid aliceblue;
+    cursor: pointer;
+}
+
+.listBoxItem:hover {
+    background-color: gold;
+    border: 1px solid goldenrod;
+}
+
+.listBoxItemActive {
+    background-color: darkorange;
+    border: 1px solid darkorange;
+    box-shadow: 0 0 5px grey;
+    cursor: pointer;
+}
